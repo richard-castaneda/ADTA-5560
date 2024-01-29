@@ -1,3 +1,5 @@
+![RNN](https://github.com/richard-castaneda/ADTA-5560/blob/main/RNN.png?raw=true)
+
 # ADTA 5560: LSTM with Time-Series Data Project
 
 ## Project Overview
